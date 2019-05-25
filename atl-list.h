@@ -3,7 +3,7 @@
  ************************/
 
 char *level_name[]={
-	"OTROK","OBCAN","VOJAK","BOJOVNIK","MUDRC","KNAZ","MAG","KRAL","BOH","SASO","OBCAN",
+	"OTROK","OBCAN","VOJAK","BOJOVNIK","MUDRC","KNAZ","MAG","KRAL","BOH","SASO","GOD",
 	"*"
 };
 
